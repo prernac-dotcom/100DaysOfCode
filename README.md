@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0542-01-matrix](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0542-01-matrix) |
 | [0690-employee-importance](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0690-employee-importance) |
 | [0794-swim-in-rising-water](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0794-swim-in-rising-water) |
@@ -40,6 +41,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0542-01-matrix](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0542-01-matrix) |
 ## Hash Table
 |  |
@@ -54,4 +56,8 @@
 |  |
 | ------- |
 | [0690-employee-importance](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0690-employee-importance) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
