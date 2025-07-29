@@ -16,6 +16,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0617-merge-two-binary-trees](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0617-merge-two-binary-trees) |
 | [0690-employee-importance](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0794-swim-in-rising-water) |
@@ -24,6 +25,7 @@
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0542-01-matrix) |
+| [0617-merge-two-binary-trees](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0617-merge-two-binary-trees) |
 | [0690-employee-importance](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0794-swim-in-rising-water) |
@@ -60,9 +62,14 @@
 ## Tree
 |  |
 | ------- |
+| [0617-merge-two-binary-trees](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0617-merge-two-binary-trees) |
 | [0690-employee-importance](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0690-employee-importance) |
 ## Greedy
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Binary Tree
+|  |
+| ------- |
+| [0617-merge-two-binary-trees](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0617-merge-two-binary-trees) |
 <!---LeetCode Topics End-->
