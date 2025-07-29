@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0134-gas-station](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0134-gas-station) |
 | [0542-01-matrix](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0542-01-matrix) |
 | [0690-employee-importance](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0695-max-area-of-island) |
@@ -68,6 +69,7 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0134-gas-station](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0134-gas-station) |
 ## Binary Tree
 |  |
 | ------- |
