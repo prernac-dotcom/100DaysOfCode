@@ -7,6 +7,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0134-gas-station) |
+| [0287-find-the-duplicate-number](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0287-find-the-duplicate-number) |
 | [0542-01-matrix](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0542-01-matrix) |
 | [0690-employee-importance](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0695-max-area-of-island) |
@@ -16,6 +17,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0287-find-the-duplicate-number) |
 | [0794-swim-in-rising-water](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0794-swim-in-rising-water) |
 ## Depth-First Search
 |  |
@@ -116,4 +118,12 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0207-course-schedule) |
+## Two Pointers
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
