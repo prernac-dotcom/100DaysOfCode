@@ -9,6 +9,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0134-gas-station) |
 | [0287-find-the-duplicate-number](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0287-find-the-duplicate-number) |
+| [0416-partition-equal-subset-sum](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0542-01-matrix) |
 | [0690-employee-importance](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0695-max-area-of-island) |
@@ -67,6 +68,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0132-palindrome-partitioning-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0542-01-matrix) |
 ## Hash Table
 |  |
