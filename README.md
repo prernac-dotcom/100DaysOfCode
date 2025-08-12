@@ -6,6 +6,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0074-search-a-2d-matrix) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0134-gas-station) |
 | [0287-find-the-duplicate-number](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0287-find-the-duplicate-number) |
@@ -80,6 +81,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0690-employee-importance](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0690-employee-importance) |
 | [0721-accounts-merge](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0721-accounts-merge) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -91,6 +93,7 @@
 ## Tree
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0617-merge-two-binary-trees) |
 | [0690-employee-importance](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0690-employee-importance) |
 ## Greedy
@@ -104,6 +107,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0617-merge-two-binary-trees) |
 ## Math
 |  |
@@ -112,6 +116,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [1014-k-closest-points-to-origin](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/1014-k-closest-points-to-origin) |
 ## Geometry
 |  |
