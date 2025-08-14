@@ -20,6 +20,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0721-accounts-merge) |
 | [0794-swim-in-rising-water](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0794-swim-in-rising-water) |
+| [0876-hand-of-straights](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0876-hand-of-straights) |
 | [1014-k-closest-points-to-origin](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/1014-k-closest-points-to-origin) |
 ## Binary Search
 |  |
@@ -84,6 +85,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0690-employee-importance](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0690-employee-importance) |
 | [0721-accounts-merge](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0721-accounts-merge) |
+| [0876-hand-of-straights](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0876-hand-of-straights) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Graph
 |  |
@@ -104,6 +106,7 @@
 | [0435-non-overlapping-intervals](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0435-non-overlapping-intervals) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0876-hand-of-straights](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0876-hand-of-straights) |
 ## Binary Tree
 |  |
 | ------- |
@@ -128,6 +131,7 @@
 | [0435-non-overlapping-intervals](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0435-non-overlapping-intervals) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0721-accounts-merge](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0721-accounts-merge) |
+| [0876-hand-of-straights](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0876-hand-of-straights) |
 | [1014-k-closest-points-to-origin](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/1014-k-closest-points-to-origin) |
 ## Quickselect
 |  |
