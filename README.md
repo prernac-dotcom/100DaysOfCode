@@ -143,6 +143,7 @@
 | [0131-palindrome-partitioning](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0721-accounts-merge](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0721-accounts-merge) |
+| [0916-decoded-string-at-index](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0916-decoded-string-at-index) |
 ## Backtracking
 |  |
 | ------- |
@@ -165,6 +166,7 @@
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0916-decoded-string-at-index](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0916-decoded-string-at-index) |
 ## Monotonic Stack
 |  |
 | ------- |
