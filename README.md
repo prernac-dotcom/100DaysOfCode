@@ -78,6 +78,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0542-01-matrix) |
+| [0583-delete-operation-for-two-strings](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Hash Table
 |  |
@@ -142,6 +143,7 @@
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0132-palindrome-partitioning-ii) |
+| [0583-delete-operation-for-two-strings](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0721-accounts-merge](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0721-accounts-merge) |
 | [0916-decoded-string-at-index](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0916-decoded-string-at-index) |
 ## Backtracking
