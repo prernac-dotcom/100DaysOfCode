@@ -21,6 +21,7 @@
 | [0721-accounts-merge](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0721-accounts-merge) |
 | [0794-swim-in-rising-water](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0794-swim-in-rising-water) |
 | [0876-hand-of-straights](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0876-hand-of-straights) |
+| [0907-koko-eating-bananas](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/1014-k-closest-points-to-origin) |
 ## Binary Search
 |  |
@@ -29,6 +30,7 @@
 | [0074-search-a-2d-matrix](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0287-find-the-duplicate-number) |
 | [0794-swim-in-rising-water](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0794-swim-in-rising-water) |
+| [0907-koko-eating-bananas](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0907-koko-eating-bananas) |
 ## Depth-First Search
 |  |
 | ------- |
