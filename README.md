@@ -22,6 +22,7 @@
 | [0794-swim-in-rising-water](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0794-swim-in-rising-water) |
 | [0876-hand-of-straights](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0876-hand-of-straights) |
 | [0907-koko-eating-bananas](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0907-koko-eating-bananas) |
+| [0985-bag-of-tokens](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0985-bag-of-tokens) |
 | [1014-k-closest-points-to-origin](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/1014-k-closest-points-to-origin) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 ## Binary Search
@@ -112,6 +113,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0876-hand-of-straights](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0876-hand-of-straights) |
+| [0985-bag-of-tokens](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0985-bag-of-tokens) |
 ## Binary Tree
 |  |
 | ------- |
@@ -137,6 +139,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0721-accounts-merge](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0721-accounts-merge) |
 | [0876-hand-of-straights](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0876-hand-of-straights) |
+| [0985-bag-of-tokens](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0985-bag-of-tokens) |
 | [1014-k-closest-points-to-origin](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/1014-k-closest-points-to-origin) |
 ## Quickselect
 |  |
@@ -165,6 +168,7 @@
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0287-find-the-duplicate-number) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0985-bag-of-tokens](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0985-bag-of-tokens) |
 ## Bit Manipulation
 |  |
 | ------- |
