@@ -23,6 +23,7 @@
 | [0876-hand-of-straights](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0876-hand-of-straights) |
 | [0907-koko-eating-bananas](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/1014-k-closest-points-to-origin) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 ## Binary Search
 |  |
 | ------- |
@@ -90,6 +91,7 @@
 | [0721-accounts-merge](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0721-accounts-merge) |
 | [0876-hand-of-straights](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0876-hand-of-straights) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 ## Graph
 |  |
 | ------- |
@@ -148,6 +150,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0721-accounts-merge](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0721-accounts-merge) |
 | [0916-decoded-string-at-index](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0916-decoded-string-at-index) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 ## Backtracking
 |  |
 | ------- |
@@ -175,4 +178,8 @@
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Counting
+|  |
+| ------- |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 <!---LeetCode Topics End-->
