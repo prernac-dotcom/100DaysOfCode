@@ -25,6 +25,7 @@
 | [0985-bag-of-tokens](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0985-bag-of-tokens) |
 | [1014-k-closest-points-to-origin](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/1014-k-closest-points-to-origin) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 ## Binary Search
 |  |
 | ------- |
@@ -84,6 +85,7 @@
 | [0542-01-matrix](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -93,6 +95,7 @@
 | [0876-hand-of-straights](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0876-hand-of-straights) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 ## Graph
 |  |
 | ------- |
