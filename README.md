@@ -26,6 +26,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/1014-k-closest-points-to-origin) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 ## Binary Search
 |  |
 | ------- |
@@ -96,6 +97,7 @@
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 ## Graph
 |  |
 | ------- |
@@ -144,6 +146,7 @@
 | [0876-hand-of-straights](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0876-hand-of-straights) |
 | [0985-bag-of-tokens](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0985-bag-of-tokens) |
 | [1014-k-closest-points-to-origin](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/1014-k-closest-points-to-origin) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 ## Quickselect
 |  |
 | ------- |
@@ -189,4 +192,5 @@
 |  |
 | ------- |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 <!---LeetCode Topics End-->
