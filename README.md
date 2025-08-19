@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0074-search-a-2d-matrix) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -92,6 +93,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0001-two-sum) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0142-linked-list-cycle-ii](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0142-linked-list-cycle-ii) |
 | [0690-employee-importance](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0690-employee-importance) |
