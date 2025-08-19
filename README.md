@@ -157,6 +157,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0583-delete-operation-for-two-strings) |
@@ -175,6 +176,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0287-find-the-duplicate-number) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
