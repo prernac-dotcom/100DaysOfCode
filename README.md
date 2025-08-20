@@ -205,6 +205,7 @@
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0142-linked-list-cycle-ii) |
+| [0328-odd-even-linked-list](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0328-odd-even-linked-list) |
 ## Queue
 |  |
 | ------- |
