@@ -186,6 +186,7 @@
 | [0125-valid-palindrome](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0143-reorder-list) |
 | [0287-find-the-duplicate-number](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0287-find-the-duplicate-number) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0985-bag-of-tokens](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0985-bag-of-tokens) |
@@ -196,6 +197,7 @@
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0143-reorder-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0916-decoded-string-at-index](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0916-decoded-string-at-index) |
 ## Monotonic Stack
@@ -212,6 +214,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0143-reorder-list) |
 | [0328-odd-even-linked-list](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0328-odd-even-linked-list) |
 ## Queue
 |  |
@@ -229,4 +232,8 @@
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/1236-n-th-tribonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
