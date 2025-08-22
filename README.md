@@ -90,6 +90,7 @@
 | [0542-01-matrix](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1236-n-th-tribonacci-number](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/1236-n-th-tribonacci-number) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 ## Hash Table
 |  |
@@ -134,6 +135,7 @@
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/1014-k-closest-points-to-origin) |
+| [1236-n-th-tribonacci-number](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/1236-n-th-tribonacci-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -220,4 +222,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0239-sliding-window-maximum) |
+## Memoization
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
