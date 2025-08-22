@@ -97,6 +97,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0001-two-sum) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0141-linked-list-cycle](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0142-linked-list-cycle-ii) |
 | [0690-employee-importance](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0690-employee-importance) |
 | [0721-accounts-merge](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0721-accounts-merge) |
@@ -183,6 +184,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0287-find-the-duplicate-number) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -208,6 +210,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0142-linked-list-cycle-ii) |
 | [0328-odd-even-linked-list](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0328-odd-even-linked-list) |
 ## Queue
