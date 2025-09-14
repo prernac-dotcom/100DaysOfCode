@@ -42,6 +42,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0207-course-schedule) |
+| [0547-number-of-provinces](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0617-merge-two-binary-trees) |
 | [0690-employee-importance](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0695-max-area-of-island) |
@@ -53,6 +54,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0207-course-schedule) |
 | [0542-01-matrix](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0542-01-matrix) |
+| [0547-number-of-provinces](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0617-merge-two-binary-trees) |
 | [0690-employee-importance](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0695-max-area-of-island) |
@@ -61,6 +63,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0721-accounts-merge) |
 | [0794-swim-in-rising-water](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0794-swim-in-rising-water) |
@@ -111,6 +114,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0207-course-schedule) |
+| [0547-number-of-provinces](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0547-number-of-provinces) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Tree
 |  |
