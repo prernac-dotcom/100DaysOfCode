@@ -17,6 +17,7 @@
 | [0435-non-overlapping-intervals](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0493-reverse-pairs](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0542-01-matrix) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0690-employee-importance](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0690-employee-importance) |
@@ -93,6 +94,7 @@
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0416-partition-equal-subset-sum](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0542-01-matrix) |
 | [0552-student-attendance-record-ii](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0552-student-attendance-record-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0583-delete-operation-for-two-strings) |
@@ -187,6 +189,7 @@
 | ------- |
 | [0077-combinations](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0077-combinations) |
 | [0131-palindrome-partitioning](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0131-palindrome-partitioning) |
+| [0494-target-sum](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0494-target-sum) |
 ## Topological Sort
 |  |
 | ------- |
