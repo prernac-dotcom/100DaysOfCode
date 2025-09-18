@@ -16,6 +16,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0493-reverse-pairs](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0493-reverse-pairs) |
 | [0542-01-matrix](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0542-01-matrix) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0690-employee-importance](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0690-employee-importance) |
@@ -36,6 +37,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0287-find-the-duplicate-number) |
+| [0493-reverse-pairs](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0493-reverse-pairs) |
 | [0794-swim-in-rising-water](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0907-koko-eating-bananas) |
 ## Depth-First Search
@@ -148,6 +150,7 @@
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0493-reverse-pairs](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0493-reverse-pairs) |
 | [1014-k-closest-points-to-origin](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/1014-k-closest-points-to-origin) |
 ## Geometry
 |  |
@@ -245,4 +248,20 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0143-reorder-list) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
