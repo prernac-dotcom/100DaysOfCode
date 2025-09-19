@@ -13,6 +13,7 @@
 | [0239-sliding-window-maximum](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0287-find-the-duplicate-number) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0207-course-schedule) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0617-merge-two-binary-trees) |
 | [0690-employee-importance](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0690-employee-importance) |
@@ -56,6 +58,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0207-course-schedule) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0617-merge-two-binary-trees) |
@@ -81,6 +84,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0074-search-a-2d-matrix) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0794-swim-in-rising-water) |
@@ -92,6 +96,7 @@
 | [0131-palindrome-partitioning](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0494-target-sum) |
@@ -119,6 +124,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0207-course-schedule) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0547-number-of-provinces) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Tree
@@ -194,6 +200,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0207-course-schedule) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -246,6 +253,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1236-n-th-tribonacci-number](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/1236-n-th-tribonacci-number) |
 ## Recursion
 |  |
