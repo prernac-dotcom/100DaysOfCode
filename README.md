@@ -14,6 +14,7 @@
 | [0287-find-the-duplicate-number](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0287-find-the-duplicate-number) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0330-patching-array](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0330-patching-array) |
 | [0416-partition-equal-subset-sum](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -138,6 +139,7 @@
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0134-gas-station) |
+| [0330-patching-array](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0330-patching-array) |
 | [0435-non-overlapping-intervals](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
