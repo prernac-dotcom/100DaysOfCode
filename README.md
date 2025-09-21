@@ -158,6 +158,7 @@
 ## Math
 |  |
 | ------- |
+| [0796-reaching-points](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0796-reaching-points) |
 | [1014-k-closest-points-to-origin](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/1014-k-closest-points-to-origin) |
 | [1236-n-th-tribonacci-number](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/1236-n-th-tribonacci-number) |
 ## Divide and Conquer
