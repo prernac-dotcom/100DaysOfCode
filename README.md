@@ -28,6 +28,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0721-accounts-merge) |
 | [0794-swim-in-rising-water](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0794-swim-in-rising-water) |
+| [0797-rabbits-in-forest](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0797-rabbits-in-forest) |
 | [0876-hand-of-straights](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0876-hand-of-straights) |
 | [0907-koko-eating-bananas](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0907-koko-eating-bananas) |
 | [0985-bag-of-tokens](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0985-bag-of-tokens) |
@@ -120,6 +121,7 @@
 | [0454-4sum-ii](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0454-4sum-ii) |
 | [0690-employee-importance](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0690-employee-importance) |
 | [0721-accounts-merge](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0721-accounts-merge) |
+| [0797-rabbits-in-forest](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0797-rabbits-in-forest) |
 | [0876-hand-of-straights](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0876-hand-of-straights) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -148,6 +150,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0797-rabbits-in-forest](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0797-rabbits-in-forest) |
 | [0876-hand-of-straights](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0876-hand-of-straights) |
 | [0985-bag-of-tokens](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0985-bag-of-tokens) |
 ## Binary Tree
@@ -159,6 +162,7 @@
 |  |
 | ------- |
 | [0796-reaching-points](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0796-reaching-points) |
+| [0797-rabbits-in-forest](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/0797-rabbits-in-forest) |
 | [1014-k-closest-points-to-origin](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/1014-k-closest-points-to-origin) |
 | [1236-n-th-tribonacci-number](https://github.com/prernac-dotcom/100DaysOfCode/tree/master/1236-n-th-tribonacci-number) |
 ## Divide and Conquer
